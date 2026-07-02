@@ -83,7 +83,7 @@ pip install chromadb sentence-transformers streamlit ollama
 
 ## Step 1: Create the College FAQ Knowledge Base
 
-Create a file called `fab_data.py` — this holds the "ground truth" the bot will answer from. In the live session, ask professors to **replace this with their own college's actual FAQs**.
+Create a file called `faq_data.py` — this holds the "ground truth" the bot will answer from. In the live session, ask professors to **replace this with their own college's actual FAQs**.
 
 ```python
 # faq_data.py
